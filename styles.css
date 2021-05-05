@@ -1,0 +1,46 @@
+h1{
+    font-family: 'Girassol', cursive;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+h4{
+    font-family: 'Girassol', cursive;
+    margin-top: 60px;
+    margin-left: -190px;
+}
+
+.nav{
+    background-color: pink;
+}
+
+.menubtn{
+    margin-top: 30px;
+    margin-bottom: 45px;
+    margin-left: 55%;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+.hoursbtn{
+    margin-top: 30px;
+    margin-bottom: 45px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.contactbtn{
+    margin-top: 30px;
+    margin-bottom: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
