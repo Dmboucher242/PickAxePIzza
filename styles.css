@@ -2,16 +2,18 @@ h1{
     font-family: 'Girassol', cursive;
     margin-left: 20px;
     margin-top: 10px;
+    color: white;
 }
 
 h4{
     font-family: 'Girassol', cursive;
     margin-top: 60px;
     margin-left: -190px;
+    color: white;
 }
 
 .nav{
-    background-color: pink;
+    background-color: black;
 }
 
 .menubtn{
@@ -23,6 +25,9 @@ h4{
     padding-bottom: 10px;
     padding-right: 15px;
     padding-left: 15px;
+    /* background-color: black; */
+    font-family: 'Girassol', cursive;
+    font-size: x-large;
 
 }
 
@@ -34,6 +39,8 @@ h4{
     padding-bottom: 10px;
     padding-right: 15px;
     padding-left: 15px;
+    font-family: 'Girassol', cursive;
+    font-size: x-large;
 }
 
 .contactbtn{
@@ -43,4 +50,6 @@ h4{
     padding-bottom: 10px;
     padding-right: 15px;
     padding-left: 15px;
+    font-family: 'Girassol', cursive;
+    font-size: x-large;
 }
