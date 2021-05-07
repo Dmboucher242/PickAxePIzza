@@ -19,7 +19,7 @@ h4{
 .menubtn{
     margin-top: 30px;
     margin-bottom: 45px;
-    margin-left: 55%;
+    margin-left: 700px;
     margin-right: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -52,4 +52,31 @@ h4{
     padding-left: 15px;
     font-family: 'Girassol', cursive;
     font-size: x-large;
+}
+
+.pizza-sizes{
+    font-family: 'Girassol', cursive;
+    font-size: x-large;
+    background-color: gray;
+}
+
+.card{
+    width: 60%;
+    margin-left: 19%;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+ h3{
+     margin-left: 10px;
+ }
+
+p{
+    font-family: 'Girassol', cursive;
+    font-size: large;
+}
+
+.cheese-pizza{
+    font-family: 'Girassol', cursive;
+    font-size: x-large;
+    background-color: gray;
 }
